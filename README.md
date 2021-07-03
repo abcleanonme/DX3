@@ -12,6 +12,6 @@ stand-alone WSJT-X module based on current Raspberry Pi hardware for the Elecraf
 
 # Dimensions #
 
-Screen OD     - 74.7mm x 140.3mm x 1mm
-Screen Bezels - 2mm x 9mm
-PX3 OD - 88mm x 141mm x 42.7mm
+* Screen OD     - 74.7mm x 140.3mm x 1mm
+* Screen Bezels - 2mm x 9mm
+* PX3 OD - 88mm x 141mm x 42.7mm
